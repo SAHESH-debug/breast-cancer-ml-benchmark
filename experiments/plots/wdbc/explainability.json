@@ -1,0 +1,19 @@
+{
+  "best_model": "SVM (RBF Kernel)",
+  "tree_feature_importance": null,
+  "permutation_importance": {
+    "worst area": 0.028947368421052576,
+    "radius error": 0.02631578947368417,
+    "worst smoothness": 0.02631578947368417,
+    "worst radius": 0.024561403508771895,
+    "worst texture": 0.02280701754385961,
+    "mean concave points": 0.021052631578947323,
+    "worst perimeter": 0.019298245614035037,
+    "area error": 0.019298245614035026,
+    "perimeter error": 0.018421052631578894,
+    "worst concave points": 0.016666666666666607,
+    "mean area": 0.016666666666666607,
+    "worst concavity": 0.015789473684210485
+  },
+  "shap_computed": true
+}

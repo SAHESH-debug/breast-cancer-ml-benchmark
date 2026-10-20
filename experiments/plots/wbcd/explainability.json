@@ -1,0 +1,16 @@
+{
+  "best_model": "Logistic Regression",
+  "tree_feature_importance": null,
+  "permutation_importance": {
+    "clump_thickness": 0.017857142857142815,
+    "bare_nuclei": 0.01714285714285709,
+    "mitoses": 0.00857142857142854,
+    "cell_size_uniformity": 0.00785714285714283,
+    "epithelial_cell_size": 0.00785714285714283,
+    "bland_chromatin": 0.0035714285714285366,
+    "marginal_adhesion": 0.002142857142857135,
+    "cell_shape_uniformity": 0.0014285714285714123,
+    "normal_nucleoli": -0.0035714285714286255
+  },
+  "shap_computed": true
+}

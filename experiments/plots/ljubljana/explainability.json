@@ -1,0 +1,19 @@
+{
+  "best_model": "K-Nearest Neighbors",
+  "tree_feature_importance": null,
+  "permutation_importance": {
+    "inv_nodes": 0.07931034482758617,
+    "age": 0.0741379310344827,
+    "node_caps_yes": 0.05344827586206894,
+    "node_caps_no": 0.05344827586206894,
+    "deg_malig": 0.05344827586206892,
+    "breast_left": 0.044827586206896516,
+    "breast_right": 0.044827586206896516,
+    "breast_quad_right_up": 0.04137931034482756,
+    "menopause": 0.041379310344827544,
+    "tumor_size": 0.03448275862068961,
+    "breast_quad_left_up": 0.0344827586206896,
+    "breast_quad_left_low": 0.03275862068965513
+  },
+  "shap_computed": true
+}

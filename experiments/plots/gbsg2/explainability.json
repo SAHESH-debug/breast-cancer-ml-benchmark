@@ -1,0 +1,15 @@
+{
+  "best_model": "Logistic Regression",
+  "tree_feature_importance": null,
+  "permutation_importance": {
+    "pnodes": 0.05579710144927537,
+    "tgrade": 0.034782608695652195,
+    "progrec": 0.03188405797101451,
+    "tsize": 0.026086956521739146,
+    "estrec": 0.02028985507246379,
+    "horTh": 0.01304347826086959,
+    "menostat": 0.0072463768115942125,
+    "age": 0.005797101449275388
+  },
+  "shap_computed": true
+}
