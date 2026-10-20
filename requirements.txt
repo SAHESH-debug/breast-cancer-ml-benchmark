@@ -1,0 +1,13 @@
+# Breast Cancer Classification Project — dependencies
+# Tested with Python 3.10–3.13
+
+scikit-learn==1.7.2
+pandas==2.3.3
+numpy>=1.26
+matplotlib==3.10.8
+seaborn==0.13.2
+joblib==1.5.3
+shap==0.49.1
+streamlit==1.65.0
+plotly==7.1.0
+
